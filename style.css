@@ -35,10 +35,10 @@ a:hover {
 }
 .menu {
   color: #D9203F;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: normal;
-  text-align: left;
-  float: left;
+  text-align: center;
+  float: center;
 } 
 .date {
   color: #CCCCCC;
